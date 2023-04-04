@@ -3,7 +3,7 @@ Weekly Challenge number 6, Server-Side API's Weather Dashboard
 
 ## Description
 
-For this week's challenge, we were assigned to build a weather dashboard application that will run in the browser and feature dynamically upated HTML and CSS. 
+For this week's challenge, we were assigned to build a weather dashboard application that will run in the browser and feature dynamically upated HTML and CSS. The Weather Dashboard will display the current weather for the selected city and display the forecast for the next five days. They will display climate information such as the temperature, humidity, wind speed, and the UV Index.
 
 ## Process used
 - Dynamically updated HTML & CSS
