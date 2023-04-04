@@ -11,7 +11,9 @@ For this week's challenge, we were assigned to build a weather dashboard applica
 - OpenWeatherMap
 - jQuery
 
-## Websites used for challenge
+## Sources used for challenge
+Lecture videos on Server-Side API's and Javascript both provided by Rice University's Coding Bootcamp.
+
 [5 Day weather forecast on openweathermap]
 - https://openweathermap.org/forecast5
 
